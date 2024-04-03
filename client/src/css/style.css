@@ -1,0 +1,24 @@
+.card {
+  padding: 50px;
+  border: 1px solid;
+  text-align: center;
+  font-size: 30px;
+  width: 50%;
+}
+
+.error {
+  color: red;
+  font-weight: bold;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+th {
+  text-align: left;
+}
+
+/* label { 
+  display: block; 
+} */
